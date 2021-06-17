@@ -1,0 +1,37 @@
+<header>
+        <div id="imagen">
+           
+        </div>
+    </header>
+    <main>
+        <h1>
+            C U R R I C U L U M  V I T A E  D E  B R U C E W A Y N E
+        </h1>
+        <section id="datosPersonales">
+            <h2>DATOS  PERSONALES</h2>
+            <ul>
+                <li><spa>Nombre completo:</spa> Bruce Wayne</li>
+                <li><spa>fecha de nacimiento:</spa> 1956-1961</li>
+                <li><spa>Lugar de nacimiento: </spa> Gotham City</li>
+            </ul>
+
+        </section>
+        <section id="formacionAcademica">
+
+        </section>
+        <section id="experiencia laboral">
+
+        </section>
+
+    </main>
+    <footer>
+
+    </footer>
+
+
+position:absolute;
+    width: 1440px;
+    height: spx;
+    left: 0px;
+    top: 189px;
+    

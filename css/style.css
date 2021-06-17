@@ -1,0 +1,110 @@
+header {
+
+   position: static;
+    width: 1440px;
+    height: 232px;
+    left: 0px;
+    top: 0px;
+    display: block;
+    margin: auto;
+    text-align:center;
+    background: #E6E6E6;
+    
+    
+
+}
+div{
+    
+    positio
+
+}
+
+img{
+    display: block;
+    margin-left: auto; 
+
+    margin-right: auto;
+    background: #E6E6E6;
+}
+#encabezado{
+
+   
+    
+
+    position:static;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #C4C4C4;
+    ;
+   
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+    
+    
+
+}
+
+h2 {
+
+
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+/*estudiar esta prpiedad_line-height: 84.69%;
+/* identical to box height, or 17px */
+
+font-feature-settings: 'cpsp' on;
+
+color: #005677;
+
+
+}
+
+section{
+    
+    left: 225px;
+    top: 352px
+}
+h1{
+    
+position: static;
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;  
+font-size: 35px;
+
+/* identical to box height, or 30px */
+
+
+color: #005677;
+background: #C4C4C4;
+
+
+
+}
+
+main{
+position: absolute;
+width: 1041px;
+height: 459px;
+left: 225px;
+top: 352px;
+display: flex;
+align-items: center;
+justify-items: center;
+}
+#datosPersonales{
+    position: absolute;
+width: 1041px;
+height: 107px;
+left: 225px;
+top: 352px;
+}
