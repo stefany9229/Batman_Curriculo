@@ -17,6 +17,7 @@
 
         </section>
         <section id="formacionAcademica">
+        
 
         </section>
         <section id="experiencia laboral">
