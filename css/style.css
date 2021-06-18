@@ -106,7 +106,11 @@ body{
 
             section>ul{
                 height: 159px;
-                
+                        
+            }
+
+            ul.inlineBlock{
+                margin-left: -2%;
             }
 
     footer{
